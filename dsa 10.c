@@ -6,8 +6,6 @@
 
 #include <stdlib.h>
 
-
-
 struct Node 
 
 { 
